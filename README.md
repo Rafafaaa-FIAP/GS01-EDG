@@ -47,4 +47,4 @@ Foi feito no simulador do [Tinkercad](https://www.tinkercad.com/) o circuito par
 <a href="https://www.tinkercad.com/things/5zn78kuBwiL-global-solution" target="_blank">
   <img src="circuit.png" alt="circuit" />
 </a>
-<h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="">aqui.</a></h6>
+<h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="https://youtu.be/NQzGpENfKtQ">aqui.</a></h6>
