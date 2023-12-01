@@ -19,8 +19,7 @@
 Um dos problemas que mais afetam os clientes de planos de saúde é a falta ou dificuldade de acesso à informações sobre a rede credenciada, tanto sobre quais locais atendem quanto sobre motivos de descredenciamentos.
 
 ## :bulb: Solução
-Para solucionar esse problema em questão foi idealizado a criação de uma área focada na rede credenciada do convênio.
-Assim, foi desenvolvido um circuito para mostrar as informações de uma lista pré cadastrada de redes credenciadas que possui:
+Para solucionar esse problema em questão foi desenvolvido um circuito para mostrar as informações de uma lista pré cadastrada de redes credenciadas que possui:
 * 1 botão;
 * 1 tela LCD;
 * 3 LEDs (vermelho, amarelo e verde).
