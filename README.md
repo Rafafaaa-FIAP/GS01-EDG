@@ -1,5 +1,4 @@
-<h1 align="center">Global Solution - 1º Semestre - 1º Ano - 1ESPR</h1>
-<h2 align="center">Rafael Cristofali - RM553521</h2>
+<h1 align="center">Global Solution 01 - Arduino</h1>
 
 <hr/>
 
@@ -11,6 +10,8 @@
   <a href="#hammer_and_wrench-Tecnologias-e-Ferramentas">Tecnologias e Ferramentas</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#desktop_computer-Simulador">Simulador</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologist-Integrantes">Integrantes</a>
 </p>
 
 <hr/>
@@ -42,9 +43,12 @@ Este projeto utilizou as seguintes tecnologias e ferramentas:
 * [C++](https://pt.wikipedia.org/wiki/C%2B%2B)
 
 ## :desktop_computer: Simulador
-Foi feito no simulador do [Tinkercad](https://www.tinkercad.com/) o circuito para realização dos teste necessários, facilitando no momento da montagem do circuito físico.
+Foi feito no simulador do Tinkercad o circuito para realização dos teste necessários, facilitando no momento da montagem do circuito físico.
 <br/><br/>
-<a href="https://www.tinkercad.com/things/5zn78kuBwiL-global-solution" target="_blank">
+<a href="https://www.tinkercad.com/things/5zn78kuBwiL-global-solution-01-arduino" target="_blank">
   <img src="circuit.png" alt="circuit" />
 </a>
 <h6>Veja o circuito clicando na imagem e veja o vídeo explicativo clicando <a href="https://youtu.be/NQzGpENfKtQ">aqui.</a></h6>
+
+## :technologist: Integrantes
+* RM 553521 - Rafael Cristofali
